@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Bramitha Gowda M</h1>
 <h3 align="center">Welcome to my GitHub profile! Elevating Data Skills with Python Mastery and AI Adventures</h3>
 
-<img align='right' alt="coding" width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
+<img align='right' alt="coding" width="400" src="https://www.bgrafio.com/wp-content/uploads/2020/04/Animated-Explainer-Video-Bgrafio.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bramitha-gowda-m&label=Profile%20views&color=0e75b6&style=flat" alt="bramitha-gowda-m" /> </p>
 
